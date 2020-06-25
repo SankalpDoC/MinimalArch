@@ -1,0 +1,14 @@
+root:*:14871::::::
+bin:!*:18438::::::
+daemon:!*:18438::::::
+mail:!*:18438::::::
+ftp:!*:18438::::::
+http:!*:18438::::::
+nobody:!*:18438::::::
+dbus:!*:18438::::::
+systemd-journal-remote:!*:18438::::::
+systemd-network:!*:18438::::::
+systemd-resolve:!*:18438::::::
+systemd-timesync:!*:18438::::::
+systemd-coredump:!*:18438::::::
+uuidd:!*:18438::::::
